@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(211, 216, 255);
+    color: rgb(19, 6, 92);
+}
+div {
+    background-color: rgb(220, 249, 255);
+    margin-bottom: 10px;
+    border-radius: 15px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+}
+header {
+    background-color: rgb(214, 63, 12);
+    padding: 1px;
+    margin-bottom: 15px;
+    text-align: center;
+    color: rgb(255, 157, 76);
+    border-radius: 5px;
+    }
+footer {
+    background-color: rgb(163, 7, 7);
+    color: white;
+    margin-bottom: -8px;
+    margin-right: -8px;
+    margin-left: -8px;
+    padding-top: 14px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+h3 {
+    color: rgb(23, 54, 103);
+}
+img {
+    width: 70%;
+    height: 70%;
+    text-align: center;
+}
